@@ -24,8 +24,10 @@ void loop() {
   switch(buttons) {
 
     case LEFT_BUTTON:
+      atFirstHex = true;
+      break;
     case RIGHT_BUTTON:
-      atFirstHex = !atFirstHex;
+      atFirstHex = false;
       break;
     case DOWN_BUTTON:
     case UP_BUTTON:

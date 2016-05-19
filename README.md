@@ -10,6 +10,7 @@ Seriously. There is nothing else.
 
 - **UP** Incriments the selected hex character
 - **DOWN** Deincriments the selected hex character
-- **LEFT** / **RIGHT** Changes the selected hex character
+- **LEFT** Selects first hex character
+- **RIGHT** Selects second hex character
 
 ![Demo of the running program](demo.jpg)
