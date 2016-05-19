@@ -13,4 +13,6 @@ Seriously. There is nothing else.
 - **LEFT** Selects first hex character
 - **RIGHT** Selects second hex character
 
+Hold up/down to continue changing the value.
+
 ![Demo of the running program](demo.jpg)

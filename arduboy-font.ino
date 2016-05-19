@@ -7,7 +7,7 @@ bool atFirstHex = true;
 
 void setup() {
   arduboy.begin();
-  arduboy.setFrameRate(4);
+  arduboy.setFrameRate(8);
   redraw();
 }
 
