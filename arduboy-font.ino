@@ -87,7 +87,7 @@ void redraw() {
 
   // Hex
   char hex[2];
-  sprintf(hex, "%02x", value);
+  sprintf(hex, "%02X", value);
 
   arduboy.setTextSize(inputSize);
   arduboy.setCursor(inputX + 4, inputY + 3);
