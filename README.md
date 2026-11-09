@@ -8,8 +8,8 @@ Seriously. There is nothing else.
 
 ## Commands
 
-- **UP** Incriments the selected hex character
-- **DOWN** Deincriments the selected hex character
+- **UP** Increments the selected hex character
+- **DOWN** Decrements the selected hex character
 - **LEFT** Selects first hex character
 - **RIGHT** Selects second hex character
 
