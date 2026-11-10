@@ -1,3 +1,5 @@
+![arduboy-font: Pixel font glyph grid on a tiny Arduboy handheld](docs/images/social-preview.png)
+
 # Arduboy Font Viewer
 
 This little program lets you go through each font in an ASCII character set and displays it in size 6, with a grid overlay.
